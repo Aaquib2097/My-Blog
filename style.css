@@ -1,0 +1,51 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_mainDiv {
+    border:1px solid;
+    float:none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.travel_mainDiv img {
+ width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p {
+margin-left:20px;
+}
+.movie-head {
+    padding:6px 20px;
+    border-radius:10px;
+    margin-bottom:10px;
+    font-size:20px;
+}
+.movie-head i {
+ float: right;
+}
+.movie_text span {
+   color: gold;
+}
+.environment_li {
+    margin-top:13px;
+}
+.environment_li h4 {
+    border-bottom:1px solid green;
+    padding:8px;
+}
+#AmazonNews {
+    border-bottom:1px solid orange;
+}
